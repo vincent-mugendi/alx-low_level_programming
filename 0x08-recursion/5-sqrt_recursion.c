@@ -29,5 +29,5 @@ int actual_sqrt_recursion(int c, int v)
 		return (-1);
 	if (v * v == c)
 		return (v);
-	return (actual_sqrt_recursion(v, i + 1));
+	return (actual_sqrt_recursion(v, v + 1));
 }
