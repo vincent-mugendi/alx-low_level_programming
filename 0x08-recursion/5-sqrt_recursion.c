@@ -11,7 +11,7 @@ int actual_sqrt_recursion(int c, int v);
 int _sqrt_recursion(int c)
 {
 	if (c < 0)
-		return (-1);
+		return (1);
 	return (actual_sqrt_recursion(c, 0));
 }
 
