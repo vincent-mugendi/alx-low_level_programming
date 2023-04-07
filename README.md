@@ -1,2 +1,1 @@
-# alx-low_level_programming
-This repo is for c alx tasks
+This directory contains Alx 0x08. C - Recursion Tasks
