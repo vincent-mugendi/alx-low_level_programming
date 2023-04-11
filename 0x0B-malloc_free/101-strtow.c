@@ -12,7 +12,7 @@ int count_word(char *s)
 	int flag, x, y;
 
 	flag = 0;
-	w = 0;
+	y = 0;
 
 	for (x = 0; s[x] != '\0'; x++)
 	{
