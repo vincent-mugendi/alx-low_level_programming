@@ -1,10 +1,9 @@
 #include <stdio.h>
 
-/*
- * main - prints the name of the source code
- * Description: The main() prints the name of the source code
+/**
+ * main - prints the name of source code the file
  *
- * return: 0 on success
+ * Return: Always 0 (Success)
  */
 
 int main(void)
