@@ -21,7 +21,7 @@ size_t looped_listint_len(const listint_t *head)
 		return (0);
 
 	chick = head->next;
-	hare = (head->next)->next;
+	cow = (head->next)->next;
 
 	while (cow)
 	{
