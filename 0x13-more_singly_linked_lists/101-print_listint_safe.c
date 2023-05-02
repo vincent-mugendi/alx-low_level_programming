@@ -27,11 +27,11 @@ size_t looped_listint_len(const listint_t *head)
 	{
 		if (chick == cow)
 		{
-			chick = cow;
+			chick = head;
 			while (chick != cow)
 			{
 				nodes++;
-				chick = cow->next;
+				chick = chick->next;
 				cow = cow->next;
 			}
 
