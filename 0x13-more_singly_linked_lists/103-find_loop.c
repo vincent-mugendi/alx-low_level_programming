@@ -15,19 +15,19 @@ listint_t *find_listint_loop(listint_t *head)
 	if (!head)
 		return (NULL);
 
-	while (slow && fast && fast->next)
+	while (pslow && pfast && pfast->next)
 	{
-		fast = fast->next->next;
-		slow = slow->next;
-		if (fast == slow)
+		pfast = pfast->next->next;
+		pslow = pslow->next;
+		if (pfast == pslow)
 		{
-			slow = head;
-			while (slow != fast)
+			pslow = head;
+			while (pslow != pfast)
 			{
-				slow = slow->next;
-				fast = fast->next;
+				pslow = pslow->next;
+				pfast = pfast->next;
 			}
-			return (fast);
+			return (pfast);
 		}
 	}
 
