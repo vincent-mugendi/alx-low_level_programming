@@ -1,7 +1,7 @@
 # 0x1E. C - Search Algorithms Alx Project
 ![](https://res.cloudinary.com/practicaldev/image/fetch/s--2puuEPtQ--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tozgxw495m5xzqkpv2c6.png)
 
-	- Can we conquer data chaos with these classic algorithms? This project delves into the practical implementation of linear and search algorithms in C
+ - Can we conquer data chaos with these classic algorithms? This project delves into the practical implementation of linear and search algorithms in C
 
 ## Concepts Tested
 	- C Algorithm
