@@ -1,5 +1,5 @@
 # 0x1E. C - Search Algorithms Alx Project
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fshubhamtiwari909%2Fsearching-algorithms-a-guide-with-java-3i8i&psig=AOvVaw0uYvOwzARnPqDkALAaN86B&ust=1702542521253000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKD5uar_i4MDFQAAAAAdAAAAABAD)
+![](https://res.cloudinary.com/practicaldev/image/fetch/s--2puuEPtQ--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tozgxw495m5xzqkpv2c6.png)
 
 	- Can we conquer data chaos with these classic algorithms? This project delves into the practical implementation of linear and search algorithms in C
 
